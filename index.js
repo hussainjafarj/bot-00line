@@ -54,7 +54,7 @@ i18n.configure({
 
 client.on('message', message => {
   if (message.content.startsWith('خط')) {
-('https://media.discordapp.net/attachments/983386931209580584/1044622350185938954/FB653D8B-87EC-4A34-A8C5-678FBE3305E0.png')
+("https://media.discordapp.net/attachments/983386931209580584/1044622350185938954/FB653D8B-87EC-4A34-A8C5-678FBE3305E0.png")
   }
 });
 
